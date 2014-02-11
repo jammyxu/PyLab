@@ -36,6 +36,6 @@ def MSGExtract(InputPath, OutputPath):
 	print "success!"
 
 if __name__=="__main__":
-	MSGExtract("bill-2014-01-24-20.dat","C:\\test6.csv")
+	MSGExtract("bill-2014-01-24-20.dat","C:\\test6.csv")#  use bill-2014-01-24-20.dat as sample file which under same path
 
 
